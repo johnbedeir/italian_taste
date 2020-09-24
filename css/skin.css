@@ -580,7 +580,7 @@ body,
 .menu_main_nav > li.current-menu-item > a,
 .menu_main_nav > li.current-menu-parent > a,
 .menu_main_nav > li.current-menu-ancestor > a {
-    border-color: #131313;
+    border-color: #ecac7e;
     color: #ecac7e;
 }
 
