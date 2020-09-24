@@ -1,10 +1,10 @@
 @charset 'utf-8';
+
 /*
-Project:		Hot Coffee HTML
-Version:		1.0.1
-Last change:	20/12/2017
-Assigned to:	Themerex
-Primary use:	Corporate
+Project:		Italian Taste
+Last change:	20/09/2020
+Developed by:	johnydesisngs.com
+Author:	Italian Taste
 */
 
 
@@ -1062,6 +1062,7 @@ html {
 	right:0;
 	z-index:10000;
 }
+
 body:not(.top_panel_fixed) .top_panel_position_over.top_panel_wrap_inner,
 body:not(.top_panel_fixed) .top_panel_position_over .top_panel_top,
 body:not(.top_panel_fixed) .top_panel_position_over .top_panel_middle,

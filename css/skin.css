@@ -1,3 +1,11 @@
+
+/*
+Project:		Italian Taste
+Last change:	20/09/2020
+Developed by:	johnydesisngs.com
+Author:	Italian Taste
+*/
+
 /* hotcoffee (basic) skin for the theme
 ------------------------------------------------------------------------- */
 /* TABLE OF CONTENTS:
@@ -480,7 +488,7 @@ body,
 
 /* Top panel - middle area */
 .top_panel_middle {
-	background-color: #ffffff;
+	background-color: #211f1e;
 }
 .top_panel_position_over.top_panel_middle {
 	background-color: rgba(247, 247, 247, 0.75);
@@ -512,7 +520,7 @@ body,
 
 /* Main menu */
 .menu_main_nav > li > a {
-	color: #222222;
+	color: #ffffff;
 }
 .top_panel_inner_style_1 .menu_main_nav > li > a,
 .top_panel_inner_style_2 .menu_main_nav > li > a {
@@ -573,7 +581,7 @@ body,
 .menu_main_nav > li.current-menu-parent > a,
 .menu_main_nav > li.current-menu-ancestor > a {
     border-color: #131313;
-    color: #222222;
+    color: #ecac7e;
 }
 
 

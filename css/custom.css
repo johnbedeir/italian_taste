@@ -1,3 +1,11 @@
+
+/*
+Project:		Italian Taste
+Last change:	20/09/2020
+Developed by:	johnydesisngs.com
+Author:	Italian Taste
+*/
+
 .space10p {
 	height: 10px;
 }
@@ -77,6 +85,7 @@
 .bg2 {
 	background-image:url(../images/3000x2000.png); 
 	background-position:50% 50%;
+	
 }
 
 .breadcrumbs_1 {
