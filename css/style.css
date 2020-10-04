@@ -5815,10 +5815,12 @@ body #booked-profile-page input[type="submit"], body #booked-profile-page button
 .header_mobile {
     position: relative;
     z-index: 10003;
-    display: none;
+	display: none;
+	background-color: #211f1e;
+	
 }
 .header_mobile .top_panel_fixed_wrap {
-    display: none;
+	display: none;
 }
 .header_mobile .mask {
     position: fixed;
@@ -5869,7 +5871,8 @@ body #booked-profile-page input[type="submit"], body #booked-profile-page button
     -moz-transition: all 0.3s ease 0s;
     -ms-transition: all 0.3s ease 0s;
     -o-transition: all 0.3s ease 0s;
-    transition: all 0.3s ease 0s
+	transition: all 0.3s ease 0s;
+	
 }
 
 
