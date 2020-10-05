@@ -1505,6 +1505,7 @@ body:not(.top_panel_fixed) .top_panel_position_over .top_panel_bottom {
 .top_panel_style_6 .content_wrap,
 .top_panel_style_7 .content_wrap {
 	position:relative;
+
 }
 .top_panel_style_3 .menu_main_wrap,
 .top_panel_style_4 .menu_main_wrap,
@@ -4696,6 +4697,17 @@ blockquote cite {
 	float:right;
 }
 
+.address_right > i{
+	padding-left: 30px;	
+}
+.address_right > i > a {
+	font-size: 14px;
+}
+
+.address_mobile > .address_right > i{
+	font-size: 12px;
+	margin-left: -60px;
+}
 
 /* Testimonials and Twitter area */
 .testimonials_wrap.sc_section,
